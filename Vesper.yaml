@@ -17,7 +17,7 @@ terminal_colors:
     yellow: "#FFC799"
     white: "#ffffff"
     magenta: "#ecaad6"
-    black: "#282828"
+    black: "#7E7E7E"
     red: "#ff8080"
     cyan: "#f591b2"
 details: "darker"
